@@ -17,11 +17,11 @@
     <td width="50%" valign="top">
       <h4>🚀 My Tech Stack</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,tailwind,mongodb,git,vscode,figma,aws" />
+        <img src="https://skillicons.dev/icons?i=java,python,c++,js,html,css,react,nextjs,nodejs,tailwind,mongodb,git,vscode,aws" />
       </a>
       <br><br>
       <h4>📫 Connect with me</h4>
-      <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=7aa2f7" /></a>
+      <a href="https://linkedin.com/in/khalid-farag"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=7aa2f7" /></a>
     </td>
     <td width="50%" valign="top">
       <h4>📊 GitHub Activity</h4>
