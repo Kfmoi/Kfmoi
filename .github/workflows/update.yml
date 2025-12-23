@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      # Snake Animation
+      # 1. Snake Animation
       - uses: Platane/snk@v3
         with:
           github_user_name: kfmoi
@@ -21,7 +21,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Push snake to a special branch
+      # 2. Push Snake to a special branch
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
@@ -29,7 +29,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Update Activity Feed
-      - uses: gautamkrishnar/github-activity-readme@master
+      # 3. Update Activity Feed (The Fixed Version)
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
