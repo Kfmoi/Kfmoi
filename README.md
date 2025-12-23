@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm kfmoi! 👋
 
-<!--
-**Kfmoi/Kfmoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=1a1b26&height=200&section=header&text=Full%20Stack%20Developer&fontSize=70&fontColor=7aa2f7" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kfmoi&color=7aa2f7&style=flat-square" alt="visitor count" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🖥️ Developer Dashboard
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 My Tech Stack</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,tailwind,mongodb,git,vscode,figma,aws" />
+      </a>
+      <br><br>
+      <h4>📫 Connect with me</h4>
+      <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=7aa2f7" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 GitHub Activity</h4>
+      <img src="https://github-readme-stats.vercel.app/api?username=kfmoi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kfmoi&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⌨️ Recent Activity
+---
+
+### 🐍 The Contribution Jungle
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kfmoi/kfmoi/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kfmoi/kfmoi/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kfmoi/kfmoi/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
