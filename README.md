@@ -1,7 +1,7 @@
-# Hi, I'm kfmoi! 👋
+# Hi, I'm Khalid Farag! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&height=100&lines=Welcome+to+kfmoi's+Profile;Full+Stack+Developer" alt="Typing Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&height=100&lines=Khalid+Farag" alt="Typing Header" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kfmoi&color=7aa2f7&style=flat-square" alt="visitor count" />
