@@ -11,18 +11,27 @@
 
 ### 🖥️ Developer Dashboard
 
+### 🖥️ Developer Dashboard
+
 <table border="0">
   <tr>
-    <td width="50%" valign="top">
-      <h4>🚀 My Tech Stack</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,python,c++,js,html,css,react,nextjs,nodejs,tailwind,mongodb,git,vscode,aws" />
-      </a>
+    <td width="60%" valign="top">
+      <h4>🌐 Languages</h4>
+      <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css&perline=6" height="50px" />
+      <br>
+      <h4>🗄️ Databases & Frameworks</h4>
+      <img src="https://skillicons.dev/icons?i=mongodb,react,nextjs,nodejs,tailwind&perline=5" height="50px" />
+      <br>
+      <h4>☁️ DevOps & Cloud</h4>
+      <img src="https://skillicons.dev/icons?i=aws,git,github" height="50px" />
+      <br>
+      <h4>🛠️ Tools</h4>
+      <img src="https://skillicons.dev/icons?i=vscode,figma,postman" height="50px" />
       <br><br>
       <h4>📫 Connect with me</h4>
       <a href="https://linkedin.com/in/khalid-farag"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=7aa2f7" /></a>
     </td>
-    <td width="50%" valign="top">
+    <td width="40%" valign="top">
       <h4>📊 GitHub Activity</h4>
       <img src="https://github-readme-stats.vercel.app/api?username=kfmoi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
       <br>
