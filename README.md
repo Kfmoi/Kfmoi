@@ -1,8 +1,5 @@
 # Hi, I'm kfmoi! 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=1a1b26&height=200&section=header&text=Full%20Stack%20Developer&fontSize=70&fontColor=7aa2f7" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kfmoi&color=7aa2f7&style=flat-square" alt="visitor count" />
