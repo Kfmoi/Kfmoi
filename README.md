@@ -32,12 +32,6 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=7aa2f7" />
       </a>
     </td>
-    <td width="50%" valign="top">
-  <h4>📊 GitHub Activity</h4>
-  <img src="https://github-readme-stats.vercel.app/api?username=kfmoi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kfmoi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%" />
-</td>
 
   </tr>
 </table>
