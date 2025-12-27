@@ -33,11 +33,12 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <h4>📊 GitHub Activity</h4>
-      <img src="https://github-readme-stats.vercel.app/api?username=kfmoi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kfmoi&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
+  <h4>📊 GitHub Activity</h4>
+  <img src="https://github-readme-stats.vercel.app/api?username=kfmoi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kfmoi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%" />
+</td>
+
   </tr>
 </table>
 
