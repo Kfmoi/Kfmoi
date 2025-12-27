@@ -14,7 +14,7 @@
 
 <table border="0">
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h4>🌐 Languages</h4>
       <img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css&perline=6" height="50px" />
       <br>
