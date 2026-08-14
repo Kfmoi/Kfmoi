@@ -11,7 +11,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Software Engineering student
+- 🎓 Software Engineering Graduate
 - 💡 Interested in **backend, cloud, and system design**
 - 🚀 Building projects that scale and solve real problems
 
